@@ -1,0 +1,73 @@
+body{
+	background-color: #825C61;
+    font-family: 'Mansalva', cursive;
+	font-size: 15px;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+#contenedor {
+	background-color: #EFC6A9;
+}
+h1{
+	color:#813F5A;
+	font-size: 3em;
+}
+h2{
+	color: #F6AA34;
+	font-size: 2em;
+}
+#cabecera {
+	text-align: center;
+	background-color: #EACE8E;
+	min-height: 30px;
+	border-radius: 100px;
+}
+#cabecera h1,h2 {
+
+
+}
+#fondo-imagen {
+	height: 400px;
+	background-color: #A83055;
+	border-radius: 100px;
+	background: url(../img/leona.jpg);
+}
+.fas {
+	color: purple;
+	font-size: 50px;
+	margin-left: 100px;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+#paginas {
+	text-align: center;
+	background-color: gray;
+	min-height: 30px;		
+	padding:10px;
+}
+a {
+	text-decoration: none;
+	color: #813F5A;
+	text-align: center
+	background-color: gray;
+	min-height: 30px;
+}
+.caja {
+	border: lightgrey solid;
+	padding: 3px;
+	margin: 5px;
+}
+ul {
+	margin-left: 20px;
+}
+.fas{
+	color: black;
+	font-size: 30px;
+}
+#tabla{
+	text-align: center
+	border: 1px;
+	font-size: 25px;
+}
